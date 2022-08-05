@@ -1,0 +1,14 @@
+body {
+    width: 95vw;
+    height: 95vh;
+    background-color: aliceblue;
+    
+}
+
+#play {
+    width: 95vw;
+    height: 95vh;
+    background-image: url('/img/Dude-walking-WIP.gif');
+    background-repeat: no-repeat;
+    z-index: 1000;
+}
